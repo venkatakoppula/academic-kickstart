@@ -25,11 +25,11 @@ interests:
 - Quantum Computing
 
 education:
-courses:
-- course: PhD in Computer Science
+  courses:
+  - course: PhD in Computer Science
    institution: University of Texas at Austin
    year: 2018
-- course: BTech in Computer Science
+  - course: BTech in Computer Science
    institution: Indian Institute of Technology, Kanpur
    year: 2012
 
