@@ -20,18 +20,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cryptography and quantum computing.
 
-# interests:
-# - Cryptography
-# - Quantum Computing
+interests:
+- Cryptography
+- Quantum Computing
 
-# education:
-#  courses:
-# - course: PhD in Computer Science
-#    institution: University of Texas at Austin
-#    year: 2018
-#  - course: BTech in Computer Science
-#    institution: Indian Institute of Technology, Kanpur
-#    year: 2012
+education:
+courses:
+- course: PhD in Computer Science
+   institution: University of Texas at Austin
+   year: 2018
+- course: BTech in Computer Science
+   institution: Indian Institute of Technology, Kanpur
+   year: 2012
 
   
 # Organizational groups that you belong to (for People widget)
