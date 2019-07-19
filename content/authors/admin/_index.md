@@ -38,4 +38,4 @@ bio: My research interests include cryptography and quantum computing.
 #   Set this to `[]` or comment out if you are not using People widget.  
 
 ---
-I am a postdoctoral researcher at the Weizmann Institute of Science, hosted by Zvika Brakerski. Before this, I completed my PhD at the University of Texas, Austin, where my advisor was Brent Waters. I am interested in the theoretical aspects of cryptography and quantum computing. 
+I am a postdoctoral researcher at the Weizmann Institute of Science, hosted by Zvika Brakerski. Before this, I completed my PhD at the University of Texas, Austin, where my advisor was Brent Waters. I am interested in the theoretical aspects of cryptography.
