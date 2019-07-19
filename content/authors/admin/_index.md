@@ -27,11 +27,11 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-   institution: University of Texas at Austin
-   year: 2018
+     institution: University of Texas at Austin
+     year: 2018
   - course: BTech in Computer Science
-   institution: Indian Institute of Technology, Kanpur
-   year: 2012
+     institution: Indian Institute of Technology, Kanpur
+     year: 2012
 
   
 # Organizational groups that you belong to (for People widget)
